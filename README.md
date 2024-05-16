@@ -1,9 +1,7 @@
-![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Recipe-Generation-from-Food-Image.svg?cache=remove)
+
 
 # Recipe-Generation-from-Food-Image
 
-### Demo:
-![Recipe_Generation gif](https://user-images.githubusercontent.com/55757415/124395585-8d0d0780-dd22-11eb-86fe-3a23d921b608.gif)
 
 Are you ever in the situation where you have a mouthwatering picture of a delicious dish but no idea how to recreate it? Look no further! Our "Recipe Generation from Food Images" project harnesses the power of deep learning to provide you with a solution.
 
